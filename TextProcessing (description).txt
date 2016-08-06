@@ -1,0 +1,9 @@
+This program is text processor (working on Ubuntu).
+Functions of this program:  
+1)Read a particular line from a file;
+2)Search for a substring without special characters. You can select search mode with sensitive / insensitive;  
+3)Replacing string fragment to another part of the string (possibly empty); 
+4)Possibility to specify the file size limit (both minimum and maximum). 
+The program works in 2 modes: 
+1)Interactive mode (in one process of the program can be carried out several actions by file processing); 
+2)Command mode (for example, gcc textproc.out -choose file_name -help).
