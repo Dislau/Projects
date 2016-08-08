@@ -1,2 +1,2 @@
 # Projects
-There's some part of my labs and course works
+There's some part of my works
